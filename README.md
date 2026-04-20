@@ -144,18 +144,6 @@ Built an interactive dashboard with:
 
 ---
 
-## 📷 Dashboard Preview
-
-### Page 1 – Overview
-
-![Dashboard Page 1](images/dashboard_page1.png)
-
-### Page 2 – Insights
-
-![Dashboard Page 2](images/dashboard_page2.png)
-
----
-
 ## 📁 Project Structure
 
 ```
