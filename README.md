@@ -167,7 +167,11 @@ online-retail-analysis/
 │
 └── README.md
 ```
+## 📂 Dataset
 
+Due to size limitations, datasets are hosted externally:
+
+https://drive.google.com/drive/folders/11niok-ytis6hVNvOe9JkJ8G3YP945g0n?usp=sharing
 ---
 
 ## 🚀 Conclusion
