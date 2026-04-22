@@ -8,6 +8,27 @@ This project analyzes an online retail dataset to understand customer behavior, 
 The analysis was carried out using Python for data cleaning, SQL for querying, and Power BI for building an interactive dashboard.
 
 ---
+## 📂 Dataset Description
+
+The dataset used in this project is an **Online Retail transactional dataset** containing sales records of a UK-based e-commerce company.
+
+### 📊 Data Overview
+
+* The dataset includes information about customer purchases, products, and transactions
+* Each row represents a single transaction (invoice line item)
+
+### 📌 Key Columns
+
+* **InvoiceNo** – Unique identifier for each transaction
+* **StockCode** – Unique product code
+* **Description** – Product name or transaction type
+* **Quantity** – Number of items purchased
+* **InvoiceDate** – Date and time of the transaction
+* **UnitPrice** – Price per unit
+* **CustomerID** – Unique customer identifier
+* **Country** – Customer location
+
+---
 
 ## 🎯 Objectives
 
@@ -118,10 +139,7 @@ Built an interactive dashboard with:
   * DOTCOM POSTAGE
   * CARRIAGE
   * MANUAL
-* Created DAX measures to calculate:
-
-  * Total Expenses
-  * Expenses % of revenue
+  * discount
 
 ---
 
@@ -162,8 +180,8 @@ online-retail-analysis/
 │   └── online_retail_dashboard.pbix
 │
 ├── images/
-│   ├── dashboard_page1.png
-│   └── dashboard_page2.png
+│   ├── image1.png
+│   └── image2.png
 │
 └── README.md
 ```
